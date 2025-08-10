@@ -8,16 +8,16 @@
 }
 
 a,
-.green {
+.purple {
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+  color: rgb(200, 120, 220);
   transition: 0.4s;
-  padding: 3px;
+  padding: 1px;
 }
 
 @media (hover: hover) {
   a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+    background-color: hsla(250, 80%, 55%, 0.2);
   }
 }
 
@@ -29,7 +29,8 @@ a,
 
   #app {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
+    grid-template-rows: 1fr 5fr;
+    place-items: center;
+    padding: 4rem 4rem;
   }
 }
