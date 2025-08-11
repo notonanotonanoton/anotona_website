@@ -1,1 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 261.76 226.69"><path d="M161.096.001l-30.225 52.351L100.647.001H-.005l130.877 226.688L261.749.001z" fill="#41b883"/><path d="M161.096.001l-30.225 52.351L100.647.001H52.346l78.526 136.01L209.398.001z" fill="#34495e"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="208mm"
+   height="48mm"
+   viewBox="0 0 208 48"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g9">
+    <rect
+       style="display:none;fill:#ff0000;fill-opacity:1;stroke-width:0.131663;paint-order:markers stroke fill"
+       id="rect13"
+       width="208"
+       height="5"
+       x="0"
+       y="38.696289" />
+  </g>
+  <g
+     id="layer3">
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:markers stroke fill"
+       id="ellipse16"
+       cx="-78.741341"
+       cy="21.196369"
+       rx="7.5"
+       ry="12.5"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke-width:0.264583;paint-order:markers stroke fill"
+       id="ellipse18"
+       cx="129.24138"
+       cy="21.196369"
+       rx="7.5"
+       ry="12.5" />
+  </g>
+  <g
+     id="layer2">
+    <path
+       d="m 21.569594,36.204025 h 9.906 l -3.7592,-3.302 h -0.0508 V 15.680826 l 1.1176,-4.3688 H 7.8535942 v 8.128 h 0.3555999 c 2.5907999,-3.8608 5.0291999,-6.7056 9.0931999,-6.7056 4.1656,0 4.2672,3.1496 4.2672,7.2136 -8.7884,3.098799 -14.9351998,5.740399 -14.9351998,10.921999 0,4.1148 2.5907999,5.842 6.0959998,5.842 3.3528,0 6.9088,-2.8956 8.8392,-4.7752 z m 0,-5.6388 c -1.27,1.3208 -2.8448,2.1336 -4.4196,2.1336 -2.1336,0 -3.81,-1.0668 -3.81,-3.5052 0,-2.4384 0.254,-4.6228 8.2296,-7.8232 z m 41.75762,5.6388 -3.8608,-4.3688 V 18.830426 c 0,-4.7752 -2.4384,-8.128 -7.62,-8.128 -3.048,0 -6.35,1.5748 -8.382,4.7244 v -4.6228 l -9.5504,3.4036 3.4544,3.9116 v 13.715999 l -3.8608,4.3688 h 13.6144 l -3.6576,-4.3688 V 17.154026 c 1.6256,-2.1844 3.556,-2.9972 5.4356,-2.9972 3.9116,0 4.4704,2.4892 4.4704,6.4008 v 11.277599 l -3.6576,4.3688 z"
+       id="text2"
+       style="font-size:50.8px;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next, Normal';fill:#cccccc;stroke:#000000;stroke-width:3.96875;stroke-linecap:round;stroke-dashoffset:731.943;paint-order:markers stroke fill"
+       aria-label="an" />
+    <path
+       d="m -64.675304,20.044275 c 0,-7.112004 -4.445002,-13.9276743 -12.860874,-13.9276743 -11.023606,0 -16.179809,8.8900053 -16.179809,16.5354093 0,7.112004 4.445003,13.927675 12.860874,13.927675 11.023606,0 16.179809,-8.890005 16.179809,-16.53541 z M -80.73658,8.3687354 c 5.21547,0 8.652939,7.8232046 8.652939,17.0688096 0,3.081869 -1.126068,8.890005 -5.511803,8.890005 -5.21547,0 -8.593672,-7.823204 -8.593672,-17.06881 0,-3.556002 0.5334,-8.8900046 5.452536,-8.8900046 z"
+       id="text3"
+       style="font-size:59.2667px;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next, Normal';fill:#ffffff;stroke:#000000;stroke-width:4.23333;stroke-linecap:round;stroke-dashoffset:731.943;paint-order:markers stroke fill"
+       transform="scale(-1,1)"
+       aria-label="o" />
+    <path
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.23333;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:731.943;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 101.28458,9.8830052 -9.449024,7.2135108 3.352764,3.20033 v 14.47767 c 0,5.7912 2.99725,7.82329 6.50244,7.82329 4.11481,0 6.8582,-2.08275 9.2966,-6.19755 l -0.60978,-0.81287 c -1.1176,2.1844 -3.454,2.94659 -4.978,2.94659 -2.9972,0 -4.115,-1.32076 -4.115,-6.19756 v -4.70617 h -0.001 v -15.0611 h 0.001 z" />
+    <path
+       d="m -186.4129,36.204025 h 9.906 l -3.7592,-3.302 h -0.0508 V 15.680826 l 1.1176,-4.3688 h -20.9296 v 8.128 h 0.3556 c 2.5908,-3.8608 5.0292,-6.7056 9.0932,-6.7056 4.1656,0 4.2672,3.1496 4.2672,7.2136 -8.7884,3.098799 -14.9352,5.740399 -14.9352,10.921999 0,4.1148 2.5908,5.842 6.096,5.842 3.3528,0 6.9088,-2.8956 8.8392,-4.7752 z m 0,-5.6388 c -1.27,1.3208 -2.8448,2.1336 -4.4196,2.1336 -2.1336,0 -3.81,-1.0668 -3.81,-3.5052 0,-2.4384 0.254,-4.6228 8.2296,-7.8232 z m 41.75762,5.6388 -3.8608,-4.3688 V 18.830426 c 0,-4.7752 -2.4384,-8.128 -7.62,-8.128 -3.048,0 -6.35,1.5748 -8.382,4.7244 v -4.6228 l -9.5504,3.4036 3.4544,3.9116 v 13.715999 l -3.8608,4.3688 h 13.6144 l -3.6576,-4.3688 V 17.154026 c 1.6256,-2.1844 3.556,-2.9972 5.4356,-2.9972 3.9116,0 4.4704,2.4892 4.4704,6.4008 v 11.277599 l -3.6576,4.3688 z"
+       id="text14"
+       style="font-size:50.8px;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next, Normal';fill:#cccccc;stroke:#000000;stroke-width:3.96875;stroke-linecap:round;stroke-dashoffset:731.943;paint-order:markers stroke fill"
+       transform="scale(-1,1)"
+       aria-label="an" />
+    <path
+       d="m 143.30741,20.044275 c 0,-7.112004 -4.445,-13.9276743 -12.86088,-13.9276743 -11.0236,0 -16.17981,8.8900053 -16.17981,16.5354093 0,7.112004 4.44501,13.927675 12.86088,13.927675 11.02361,0 16.17981,-8.890005 16.17981,-16.53541 z M 127.24613,8.3687354 c 5.21547,0 8.65294,7.8232046 8.65294,17.0688096 0,3.081869 -1.12607,8.890005 -5.5118,8.890005 -5.21547,0 -8.59367,-7.823204 -8.59367,-17.06881 0,-3.556002 0.5334,-8.8900046 5.45253,-8.8900046 z"
+       id="text18"
+       style="font-size:59.2667px;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next, Normal';fill:#ffffff;stroke:#000000;stroke-width:4.23333;stroke-linecap:round;stroke-dashoffset:731.943;paint-order:markers stroke fill"
+       aria-label="o" />
+  </g>
+  <g
+     id="layer4"
+     transform="translate(0,-144.40332)">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.105834;paint-order:markers stroke fill"
+       id="ellipse15"
+       cx="-81.741341"
+       cy="159.10016"
+       rx="3"
+       ry="5"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.105834;paint-order:markers stroke fill"
+       id="ellipse19"
+       cx="126.24137"
+       cy="159.10016"
+       rx="3"
+       ry="5" />
+  </g>
+</svg>
