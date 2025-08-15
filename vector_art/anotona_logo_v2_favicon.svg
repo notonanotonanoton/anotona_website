@@ -2,15 +2,25 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="150mm"
-   height="50mm"
-   viewBox="27.25 -2 150 50"
+   width="78mm"
+   height="78mm"
+   viewBox="63.25 -16 78 78"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1" />
+  <g
+     id="g9">
+    <rect
+       style="display:none;fill:#ff0000;fill-opacity:1;stroke-width:0.114023;paint-order:markers stroke fill"
+       id="rect13"
+       width="156"
+       height="5"
+       x="24.25"
+       y="38.696289" />
+  </g>
   <g
      id="layer3">
     <ellipse
@@ -32,16 +42,6 @@
   <g
      id="layer2">
     <path
-       d="m 43.410105,36.204025 h 8.32379 l -3.158771,-2.774596 h -0.04269 V 18.958841 l 0.939095,-3.671005 H 31.884858 v 6.829776 h 0.298803 c 2.176991,-3.244143 4.225924,-5.634565 7.640812,-5.634565 3.50026,0 3.585632,2.646538 3.585632,6.061426 -7.384695,2.603852 -12.549713,4.82353 -12.549713,9.177512 0,3.457574 2.176991,4.908901 5.122332,4.908901 2.817283,0 5.80531,-2.433107 7.427381,-4.012493 z m 0,-4.738157 c -1.067152,1.109839 -2.390421,1.792816 -3.71369,1.792816 -1.792816,0 -3.201458,-0.896408 -3.201458,-2.945341 0,-2.048932 0.213431,-3.884435 6.915148,-6.573659 z"
-       id="text2"
-       style="font-size:42.6861px;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next, Normal';fill:#818181;stroke:#000000;stroke-width:3.96875;stroke-linecap:round;stroke-dashoffset:731.943;paint-order:markers stroke fill"
-       aria-label="a" />
-    <path
-       d="m 72.732397,36.182755 -3.8608,-4.3688 v -13.0048 c 0,-4.7752 -2.4384,-8.128 -7.62,-8.128 -3.048,0 -6.35,1.5748 -8.382,4.7244 v -4.6228 l -9.5504,3.4036 3.4544,3.9116 v 13.716 l -3.8608,4.3688 h 13.6144 l -3.6576,-4.3688 v -14.6812 c 1.6256,-2.1844 3.556,-2.9972 5.4356,-2.9972 3.9116,0 4.4704,2.4892 4.4704,6.4008 v 11.2776 l -3.6576,4.3688 z"
-       id="text1"
-       style="font-size:50.8px;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next, Normal';fill:#bfbfbf;stroke:#000000;stroke-width:3.96875;stroke-linecap:round;stroke-dashoffset:731.943;paint-order:markers stroke fill"
-       aria-label="n" />
-    <path
        d="m -65.720958,20.044275 c 0,-7.112004 -4.445003,-13.9276743 -12.860874,-13.9276743 -11.023606,0 -16.179809,8.8900053 -16.179809,16.5354093 0,7.112004 4.445002,13.927675 12.860874,13.927675 11.023606,0 16.179809,-8.890005 16.179809,-16.53541 z M -81.782234,8.3687354 c 5.21547,0 8.652938,7.8232046 8.652938,17.0688096 0,3.081869 -1.126067,8.890005 -5.511803,8.890005 -5.215469,0 -8.593671,-7.823204 -8.593671,-17.06881 0,-3.556002 0.5334,-8.8900046 5.452536,-8.8900046 z"
        id="text3"
        style="font-size:59.2667px;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next, Normal';fill:#ffffff;stroke:#000000;stroke-width:4.23333;stroke-linecap:round;stroke-dashoffset:731.943;paint-order:markers stroke fill"
@@ -53,18 +53,6 @@
        style="font-size:52.7677px;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next, Normal';fill:#ffffff;stroke:#000000;stroke-width:4.39731;stroke-linecap:round;stroke-dashoffset:731.943;paint-order:markers stroke fill"
        transform="scale(0.95448829,1.0476818)"
        aria-label="t" />
-    <path
-       d="m -161.08997,36.204025 h 8.32379 l -3.15877,-2.774596 h -0.0427 V 18.958841 l 0.93909,-3.671005 h -17.58667 v 6.829776 h 0.2988 c 2.17699,-3.244143 4.22592,-5.634565 7.64081,-5.634565 3.50026,0 3.58563,2.646538 3.58563,6.061426 -7.38469,2.603852 -12.54971,4.82353 -12.54971,9.177512 0,3.457574 2.17699,4.908901 5.12233,4.908901 2.81728,0 5.80531,-2.433107 7.42738,-4.012493 z m 0,-4.738157 c -1.06715,1.109839 -2.39042,1.792816 -3.71369,1.792816 -1.79281,0 -3.20146,-0.896408 -3.20146,-2.945341 0,-2.048932 0.21344,-3.884435 6.91515,-6.573659 z"
-       id="text7"
-       style="font-size:42.6861px;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next, Normal';fill:#818181;stroke:#000000;stroke-width:3.96875;stroke-linecap:round;stroke-dashoffset:731.943;paint-order:markers stroke fill"
-       transform="scale(-1,1)"
-       aria-label="a" />
-    <path
-       d="m -131.76758,36.182755 -3.8608,-4.3688 v -13.0048 c 0,-4.7752 -2.4384,-8.128 -7.62,-8.128 -3.048,0 -6.35,1.5748 -8.382,4.7244 v -4.6228 l -9.5504,3.4036 3.4544,3.9116 v 13.716 l -3.8608,4.3688 h 13.6144 l -3.6576,-4.3688 v -14.6812 c 1.6256,-2.1844 3.556,-2.9972 5.4356,-2.9972 3.9116,0 4.4704,2.4892 4.4704,6.4008 v 11.2776 l -3.6576,4.3688 z"
-       id="text8"
-       style="font-size:50.8px;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next, Normal';fill:#bfbfbf;stroke:#000000;stroke-width:3.96875;stroke-linecap:round;stroke-dashoffset:731.943;paint-order:markers stroke fill"
-       transform="scale(-1,1)"
-       aria-label="n" />
     <path
        d="m 138.77942,20.044275 c 0,-7.112004 -4.44501,-13.9276743 -12.86088,-13.9276743 -11.0236,0 -16.17981,8.8900053 -16.17981,16.5354093 0,7.112004 4.44501,13.927675 12.86088,13.927675 11.0236,0 16.17981,-8.890005 16.17981,-16.53541 z M 122.71814,8.3687354 c 5.21547,0 8.65294,7.8232046 8.65294,17.0688096 0,3.081869 -1.12607,8.890005 -5.5118,8.890005 -5.21547,0 -8.59368,-7.823204 -8.59368,-17.06881 0,-3.556002 0.5334,-8.8900046 5.45254,-8.8900046 z"
        id="text9"

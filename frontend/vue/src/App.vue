@@ -5,12 +5,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="anotona logo" class="logo" src="./assets/logo.svg" width="416" height="96" />
-
-    <!-- <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-
-    </div> -->
+    <img alt="anotona logo" class="logo" src="./assets/logo.svg" />
   </header>
 
   <main>
@@ -20,28 +15,11 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <style scoped>
 header {
-  line-height: 1.5;
+  display: block;
+  width: 20%;
 }
 
 .logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
+  max-width: 100%;
 }
 </style>
